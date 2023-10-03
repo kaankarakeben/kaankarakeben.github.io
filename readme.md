@@ -1,3 +1,3 @@
 ## Kerem dogdu mu?
 
-## Hayir
+## Durum: Zeynep hayatina normal ederek devam ediyor.
