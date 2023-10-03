@@ -1,4 +1,7 @@
-## Kerem dogdu mu?
+# Kerem dogdu mu?
 
-### Durum
-Zeynep'te dogumun basladigina dair bir bulgu gozlenmiyor.
+## Durum
+
+| Tarih/Saat | Durum | Zeynep | Kerem |
+| ----------- | ----------- | ---- | ---- |
+| 2023-10-03 10:00 | Zeynep'te dogumun basladigina dair bir bulgu gozlenmiyor. | Evde | Anne karninda |
