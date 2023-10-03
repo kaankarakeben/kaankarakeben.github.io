@@ -1,3 +1,3 @@
 ## Kerem dogdu mu?
 
-## Durum: Zeynep hayatina normal ederek devam ediyor.
+## Durum: Zeynep'te dogumun basladigina dair bir bulgu gozlenmiyor.
