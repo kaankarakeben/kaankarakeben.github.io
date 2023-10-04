@@ -9,3 +9,4 @@
 | 2023-10-04 09:00 | Durum stabil. Raporlanacak bir gelisme yok. | Evde | Anne karninda |
 | 2023-10-04 11:00 | Dogum belirtileri basladi. Hastaneye kontrole gidiyoruz. | Taksi | Anne karninda |
 | 2023-10-04 15:00 | Doktorlar doğum sancilarini gozlemledi. Eve gecin siklasinca gelin dedi. | Hastane | Anne karninda |
+| 2023-10-04 19:00 | Dogum sancilarinin sıklaşmasını bekliyoruz. | Evde | Anne karninda |
