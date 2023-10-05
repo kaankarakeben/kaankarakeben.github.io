@@ -10,3 +10,4 @@
 | 2023-10-04 11:00 | Dogum belirtileri basladi. Hastaneye kontrole gidiyoruz. | Taksi | Anne karninda |
 | 2023-10-04 15:00 | Doktorlar doğum sancilarini gozlemledi. Eve gecin siklasinca gelin dedi. | Hastane | Anne karninda |
 | 2023-10-04 19:00 | Dogum sancilarinin sıklaşmasını bekliyoruz. | Evde | Anne karninda |
+| 2023-10-05 08:00 | Hastaneye geçiyoruz. Suni sanci ile surec hizlandirilacak. | Taksi | Anne karninda |
