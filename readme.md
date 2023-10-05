@@ -12,3 +12,4 @@
 | 2023-10-04 19:00 | Dogum sancilarinin sıklaşmasını bekliyoruz. | Evde | Anne karninda |
 | 2023-10-05 08:00 | Hastaneye geçiyoruz. Suni sanci ile surec hizlandirilacak. | Taksi | Anne karninda |
 | 2023-10-05 13:30 | Suni sancilar basladi. 4-6 saat bu sekilde devam etmesini bekleyecegiz | Hastane | Anne karninda |
+Kerem ve zeynep saglikli. Bebek dogdu @20:30
